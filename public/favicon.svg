@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <circle cx="50" cy="50" r="48" fill="#ffffff" stroke="#0a1e38" stroke-width="4"/>
+  <circle cx="50" cy="50" r="43" fill="none" stroke="#f59e0b" stroke-width="2" stroke-dasharray="3 2"/>
+  <!-- Dark navy central letter A with golden crest -->
+  <polygon points="50,16 68,68 59,68 54,54 46,54 41,68 32,68" fill="#0a1e38"/>
+  <polygon points="50,30 53,46 47,46" fill="#ffffff"/>
+  <!-- Golden center bridge / star -->
+  <polygon points="50,22 53,29 60,30 55,35 56,42 50,38 44,42 45,35 40,30 47,29" fill="#f59e0b"/>
+  <!-- Graduation cap line / compass base -->
+  <path d="M28 76 Q50 84 72 76" stroke="#f59e0b" stroke-width="3" stroke-linecap="round" fill="none"/>
+</svg>
